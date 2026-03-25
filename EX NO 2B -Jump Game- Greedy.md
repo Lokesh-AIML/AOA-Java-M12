@@ -1,6 +1,6 @@
 
 # EX 2B Jump Game using Greedy Algorithm.
-## DATE: 19.9.25
+## DATE: 
 ## AIM:
 To write a Java program to for given constraints.
 You are given an array of integers. Each number represents the maximum number of steps you can jump forward from that position.
@@ -26,8 +26,8 @@ If it is not possible to reach the end, return -1.
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 import java.util.Scanner;
 
