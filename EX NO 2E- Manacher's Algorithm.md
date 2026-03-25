@@ -1,6 +1,6 @@
 
 # EX 2E Pattern Matching using KMP Algorithm.
-## DATE: 28.9.25
+## DATE: 
 ## AIM:
 To write a Java program for the following constraints.
 Longest Palindromic Substring
@@ -26,8 +26,8 @@ using Manacher's Algorithm
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 import java.util.Scanner;
 
